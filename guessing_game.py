@@ -1,6 +1,6 @@
 import random
 
-jackpot = random.randint(1,110)
+jackpot = random.randint(1,50)
 guess = int(input("Enter your number: "))
 counter = 1
 
