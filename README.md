@@ -1,39 +1,86 @@
-# Python Number Guessing Game
+# 🎯 Python Number Guessing Game
 
-## Overview
-This is a simple Python guessing game that generates a random number between 1 and 110.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Beginner Project](https://img.shields.io/badge/Level-Beginner-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-The player must guess the number, and the game provides hints:
-- Enter higher number
-- Enter lower number
+## 📌 Project Overview
 
-The program also counts the number of attempts taken to guess correctly.
+This is a simple Python-based Number Guessing Game.
 
-## Skills Demonstrated
-- Python Programming
-- While Loops
-- Conditional Statements
-- Random Module
-- User Input Handling
+The program generates a random number between 1 and 110, and the player tries to guess the correct number.
 
-## How to Run
+The game provides hints:
+
+* Enter higher number
+* Enter lower number
+
+It also tracks the total number of attempts required to win.
+
+---
+
+## 🚀 Skills Demonstrated
+
+* Python Programming
+* While Loops
+* Conditional Statements
+* Random Module
+* User Input Handling
+* Problem Solving
+
+---
+
+## 🖼️ Project Screenshot
+
+![Game Screenshot](game-screenshot.png)
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/bhanusolanki45/bhanusolanki45-Guessing-Game-Python.git
+```
+
+2. Open terminal
+
+3. Run:
 
 ```bash
 python guessing_game.py
 ```
 
-## Sample Output
+---
 
-Enter your number: 50
+## 📂 Project Structure
 
-Enter higher number
+Guessing-Game-Python
 
-Enter your new number: 80
+├── guessing_game.py
 
-Enter lower number
+├── README.md
 
-Enter your new number: 72
+├── requirements.txt
 
-You've Got It Right
+└── game-screenshot.png
 
-You took 3 Attempts
+---
+
+## 📈 Future Improvements
+
+* Difficulty Levels
+* Scoreboard
+* GUI using Tkinter
+* Web App using Streamlit
+
+---
+
+## 👨‍💻 Author
+
+Bhanu Solanki
+
+PGDM Student | Aspiring Data Analyst
+
+GitHub: https://github.com/bhanusolanki45
