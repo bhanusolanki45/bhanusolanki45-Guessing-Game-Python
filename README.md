@@ -75,12 +75,20 @@ Guessing-Game-Python
 * GUI using Tkinter
 * Web App using Streamlit
 
+## 🎮 Live Demo
+
+Play the game here:
+
+https://your-app.streamlit.app
+
 ---
 
 ## 👨‍💻 Author
 
-Bhanu Solanki
+Shashi Ranjan
 
-PGDM Student | Aspiring Data Analyst
+PGDM Student | Data Scientist
+
+
 
 GitHub: https://github.com/bhanusolanki45
