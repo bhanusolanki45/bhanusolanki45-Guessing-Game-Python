@@ -1,4 +1,3 @@
-</> Markdown
 # Python Number Guessing Game
 
 ## Overview
